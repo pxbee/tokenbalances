@@ -1,0 +1,24 @@
+{
+  "name": "tokenbalances",
+  "version": "1.0.0",
+  "description": "",
+  "main": "batch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxbee/tokenbalances.git"
+  },
+  "author": "",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "web3": "^2.0.0-alpha.1",
+    "web3-eth-abi": "^2.0.0-alpha.1"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxbee/tokenbalances/issues"
+  },
+  "homepage": "https://github.com/pxbee/tokenbalances#readme"
+}
